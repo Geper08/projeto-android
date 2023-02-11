@@ -1,6 +1,9 @@
 # projeto-android
-Projeto Android com HTML e CSS
+Projeto Desenvolvendo site sobre o Android com HTML e CSS
 
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
 
 <div align="center">
 <img src= "https://user-images.githubusercontent.com/111367544/218257641-fce821e3-6d58-4dc9-9dff-83355ffc9188.png" width="700px" />
